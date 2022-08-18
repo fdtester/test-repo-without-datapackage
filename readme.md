@@ -1,2 +1,2 @@
-# Test repo for Github integration
+# Test repo to read from
 Author: Frictionlessdata
