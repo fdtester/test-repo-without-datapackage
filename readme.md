@@ -1,2 +1,3 @@
-# Test repo to read from
+# Test repo without datapackage
 Author: Frictionlessdata
+TestAction: Read
